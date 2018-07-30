@@ -1,0 +1,10 @@
+/Users/mrucker/Downloads/Ex_Files_Learning_Visual_Studio_Code/Exercise Files/MyDotNet/bin/Debug/netcoreapp1.1/MyDotNet.deps.json
+/Users/mrucker/Downloads/Ex_Files_Learning_Visual_Studio_Code/Exercise Files/MyDotNet/bin/Debug/netcoreapp1.1/MyDotNet.runtimeconfig.json
+/Users/mrucker/Downloads/Ex_Files_Learning_Visual_Studio_Code/Exercise Files/MyDotNet/bin/Debug/netcoreapp1.1/MyDotNet.runtimeconfig.dev.json
+/Users/mrucker/Downloads/Ex_Files_Learning_Visual_Studio_Code/Exercise Files/MyDotNet/bin/Debug/netcoreapp1.1/MyDotNet.dll
+/Users/mrucker/Downloads/Ex_Files_Learning_Visual_Studio_Code/Exercise Files/MyDotNet/bin/Debug/netcoreapp1.1/MyDotNet.pdb
+/Users/mrucker/Downloads/Ex_Files_Learning_Visual_Studio_Code/Exercise Files/MyDotNet/obj/Debug/netcoreapp1.1/MyDotNet.csprojResolveAssemblyReference.cache
+/Users/mrucker/Downloads/Ex_Files_Learning_Visual_Studio_Code/Exercise Files/MyDotNet/obj/Debug/netcoreapp1.1/MyDotNet.csproj.CoreCompileInputs.cache
+/Users/mrucker/Downloads/Ex_Files_Learning_Visual_Studio_Code/Exercise Files/MyDotNet/obj/Debug/netcoreapp1.1/MyDotNet.AssemblyInfo.cs
+/Users/mrucker/Downloads/Ex_Files_Learning_Visual_Studio_Code/Exercise Files/MyDotNet/obj/Debug/netcoreapp1.1/MyDotNet.dll
+/Users/mrucker/Downloads/Ex_Files_Learning_Visual_Studio_Code/Exercise Files/MyDotNet/obj/Debug/netcoreapp1.1/MyDotNet.pdb
